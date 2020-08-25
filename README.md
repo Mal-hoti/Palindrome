@@ -10,7 +10,8 @@ To check if a word such as RACECAR is a palindrome, what I do is check the first
  this is a palindrom
  
 ####################
- for DEFIED 
+
+for DEFIED 
  
  D  D o
  E  E o
